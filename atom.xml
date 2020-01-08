@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>yddf Blog</title>
   
-  
+  <subtitle>Java</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yddfwang.github.io/"/>
