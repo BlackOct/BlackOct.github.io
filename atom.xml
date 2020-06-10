@@ -5,9 +5,9 @@
   <subtitle>Never say never</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://yddfwang.github.io/"/>
-  <updated>2020-01-08T09:07:30.408Z</updated>
-  <id>https://yddfwang.github.io/</id>
+  <link href="https://blackwang.github.io/"/>
+  <updated>2020-02-10T04:28:54.804Z</updated>
+  <id>https://blackwang.github.io/</id>
   
   <author>
     <name>yddf</name>
@@ -17,9 +17,24 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>TTCP的三次握手与四次挥手</title>
+    <link href="https://blackwang.github.io/2020/02/10/TCP%E7%9A%84%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E4%B8%8E%E5%9B%9B%E6%AC%A1%E6%8C%A5%E6%89%8B/"/>
+    <id>https://blackwang.github.io/2020/02/10/TCP%E7%9A%84%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E4%B8%8E%E5%9B%9B%E6%AC%A1%E6%8C%A5%E6%89%8B/</id>
+    <published>2020-02-10T04:28:54.000Z</published>
+    <updated>2020-02-10T04:28:54.804Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>ElasticSearch搜索框搜索详解</title>
-    <link href="https://yddfwang.github.io/2019/12/08/ElasticSearch%E6%90%9C%E7%B4%A2%E6%A1%86%E6%90%9C%E7%B4%A2%E8%AF%A6%E8%A7%A3/"/>
-    <id>https://yddfwang.github.io/2019/12/08/ElasticSearch%E6%90%9C%E7%B4%A2%E6%A1%86%E6%90%9C%E7%B4%A2%E8%AF%A6%E8%A7%A3/</id>
+    <link href="https://blackwang.github.io/2019/12/08/ElasticSearch%E6%90%9C%E7%B4%A2%E6%A1%86%E6%90%9C%E7%B4%A2%E8%AF%A6%E8%A7%A3/"/>
+    <id>https://blackwang.github.io/2019/12/08/ElasticSearch%E6%90%9C%E7%B4%A2%E6%A1%86%E6%90%9C%E7%B4%A2%E8%AF%A6%E8%A7%A3/</id>
     <published>2019-12-08T07:48:25.000Z</published>
     <updated>2020-01-08T09:07:30.408Z</updated>
     
@@ -33,16 +48,16 @@
     
     
     
-      <category term="JAVA" scheme="https://yddfwang.github.io/tags/JAVA/"/>
+      <category term="JAVA" scheme="https://BlackWang.github.io/tags/JAVA/"/>
     
-      <category term="ES" scheme="https://yddfwang.github.io/tags/ES/"/>
+      <category term="ES" scheme="https://BlackWang.github.io/tags/ES/"/>
     
   </entry>
   
   <entry>
     <title>spring总结</title>
-    <link href="https://yddfwang.github.io/2019/11/07/spring%E6%80%BB%E7%BB%93/"/>
-    <id>https://yddfwang.github.io/2019/11/07/spring%E6%80%BB%E7%BB%93/</id>
+    <link href="https://blackwang.github.io/2019/11/07/spring%E6%80%BB%E7%BB%93/"/>
+    <id>https://blackwang.github.io/2019/11/07/spring%E6%80%BB%E7%BB%93/</id>
     <published>2019-11-07T06:49:40.000Z</published>
     <updated>2019-11-14T11:45:32.000Z</updated>
     
@@ -56,16 +71,16 @@
     
     
     
-      <category term="JAVA" scheme="https://yddfwang.github.io/tags/JAVA/"/>
+      <category term="JAVA" scheme="https://BlackWang.github.io/tags/JAVA/"/>
     
-      <category term="Spring" scheme="https://yddfwang.github.io/tags/Spring/"/>
+      <category term="Spring" scheme="https://BlackWang.github.io/tags/Spring/"/>
     
   </entry>
   
   <entry>
     <title>冒泡排序</title>
-    <link href="https://yddfwang.github.io/2019/09/19/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/"/>
-    <id>https://yddfwang.github.io/2019/09/19/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/</id>
+    <link href="https://blackwang.github.io/2019/09/19/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/"/>
+    <id>https://blackwang.github.io/2019/09/19/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F/</id>
     <published>2019-09-19T14:03:47.000Z</published>
     <updated>2019-09-22T02:53:20.000Z</updated>
     
@@ -79,16 +94,16 @@
     
     
     
-      <category term="JAVA" scheme="https://yddfwang.github.io/tags/JAVA/"/>
+      <category term="JAVA" scheme="https://BlackWang.github.io/tags/JAVA/"/>
     
-      <category term="Sort" scheme="https://yddfwang.github.io/tags/Sort/"/>
+      <category term="Sort" scheme="https://BlackWang.github.io/tags/Sort/"/>
     
   </entry>
   
   <entry>
     <title>接口做参数</title>
-    <link href="https://yddfwang.github.io/2019/09/16/%E6%8E%A5%E5%8F%A3%E5%81%9A%E5%8F%82%E6%95%B0/"/>
-    <id>https://yddfwang.github.io/2019/09/16/%E6%8E%A5%E5%8F%A3%E5%81%9A%E5%8F%82%E6%95%B0/</id>
+    <link href="https://blackwang.github.io/2019/09/16/%E6%8E%A5%E5%8F%A3%E5%81%9A%E5%8F%82%E6%95%B0/"/>
+    <id>https://blackwang.github.io/2019/09/16/%E6%8E%A5%E5%8F%A3%E5%81%9A%E5%8F%82%E6%95%B0/</id>
     <published>2019-09-16T08:12:52.000Z</published>
     <updated>2019-09-16T08:28:08.000Z</updated>
     
@@ -102,16 +117,16 @@
     
     
     
-      <category term="JAVA" scheme="https://yddfwang.github.io/tags/JAVA/"/>
+      <category term="JAVA" scheme="https://BlackWang.github.io/tags/JAVA/"/>
     
-      <category term="interface" scheme="https://yddfwang.github.io/tags/interface/"/>
+      <category term="interface" scheme="https://BlackWang.github.io/tags/interface/"/>
     
   </entry>
   
   <entry>
     <title>类加载器ClassLoader</title>
-    <link href="https://yddfwang.github.io/2019/09/11/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8ClassLoader/"/>
-    <id>https://yddfwang.github.io/2019/09/11/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8ClassLoader/</id>
+    <link href="https://blackwang.github.io/2019/09/11/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8ClassLoader/"/>
+    <id>https://blackwang.github.io/2019/09/11/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%99%A8ClassLoader/</id>
     <published>2019-09-11T10:16:15.000Z</published>
     <updated>2020-01-08T09:02:31.592Z</updated>
     
@@ -125,16 +140,16 @@
     
     
     
-      <category term="JAVA" scheme="https://yddfwang.github.io/tags/JAVA/"/>
+      <category term="JAVA" scheme="https://BlackWang.github.io/tags/JAVA/"/>
     
-      <category term="ClassLoader" scheme="https://yddfwang.github.io/tags/ClassLoader/"/>
+      <category term="ClassLoader" scheme="https://BlackWang.github.io/tags/ClassLoader/"/>
     
   </entry>
   
   <entry>
     <title>ArrayList与数据输入查询案例</title>
-    <link href="https://yddfwang.github.io/2019/09/08/ArrayList%E4%B8%8E%E6%95%B0%E6%8D%AE%E8%BE%93%E5%85%A5%E6%9F%A5%E8%AF%A2%E6%A1%88%E4%BE%8B/"/>
-    <id>https://yddfwang.github.io/2019/09/08/ArrayList%E4%B8%8E%E6%95%B0%E6%8D%AE%E8%BE%93%E5%85%A5%E6%9F%A5%E8%AF%A2%E6%A1%88%E4%BE%8B/</id>
+    <link href="https://blackwang.github.io/2019/09/08/ArrayList%E4%B8%8E%E6%95%B0%E6%8D%AE%E8%BE%93%E5%85%A5%E6%9F%A5%E8%AF%A2%E6%A1%88%E4%BE%8B/"/>
+    <id>https://blackwang.github.io/2019/09/08/ArrayList%E4%B8%8E%E6%95%B0%E6%8D%AE%E8%BE%93%E5%85%A5%E6%9F%A5%E8%AF%A2%E6%A1%88%E4%BE%8B/</id>
     <published>2019-09-08T07:09:32.000Z</published>
     <updated>2019-09-08T08:10:08.000Z</updated>
     
@@ -148,16 +163,16 @@
     
     
     
-      <category term="JAVA" scheme="https://yddfwang.github.io/tags/JAVA/"/>
+      <category term="JAVA" scheme="https://BlackWang.github.io/tags/JAVA/"/>
     
-      <category term="Case" scheme="https://yddfwang.github.io/tags/Case/"/>
+      <category term="Case" scheme="https://BlackWang.github.io/tags/Case/"/>
     
   </entry>
   
   <entry>
     <title>内部类与匿名内部类</title>
-    <link href="https://yddfwang.github.io/2019/09/04/%E5%86%85%E9%83%A8%E7%B1%BB%E4%B8%8E%E5%8C%BF%E5%90%8D%E5%86%85%E9%83%A8%E7%B1%BB/"/>
-    <id>https://yddfwang.github.io/2019/09/04/%E5%86%85%E9%83%A8%E7%B1%BB%E4%B8%8E%E5%8C%BF%E5%90%8D%E5%86%85%E9%83%A8%E7%B1%BB/</id>
+    <link href="https://blackwang.github.io/2019/09/04/%E5%86%85%E9%83%A8%E7%B1%BB%E4%B8%8E%E5%8C%BF%E5%90%8D%E5%86%85%E9%83%A8%E7%B1%BB/"/>
+    <id>https://blackwang.github.io/2019/09/04/%E5%86%85%E9%83%A8%E7%B1%BB%E4%B8%8E%E5%8C%BF%E5%90%8D%E5%86%85%E9%83%A8%E7%B1%BB/</id>
     <published>2019-09-04T02:43:31.000Z</published>
     <updated>2019-09-05T08:34:44.000Z</updated>
     
@@ -171,16 +186,16 @@
     
     
     
-      <category term="Java" scheme="https://yddfwang.github.io/tags/Java/"/>
+      <category term="Java" scheme="https://BlackWang.github.io/tags/Java/"/>
     
-      <category term="Inner Class" scheme="https://yddfwang.github.io/tags/Inner-Class/"/>
+      <category term="Inner Class" scheme="https://BlackWang.github.io/tags/Inner-Class/"/>
     
   </entry>
   
   <entry>
     <title>File类复制文件</title>
-    <link href="https://yddfwang.github.io/2019/09/01/File%E7%B1%BB%E5%A4%8D%E5%88%B6%E6%96%87%E4%BB%B6/"/>
-    <id>https://yddfwang.github.io/2019/09/01/File%E7%B1%BB%E5%A4%8D%E5%88%B6%E6%96%87%E4%BB%B6/</id>
+    <link href="https://blackwang.github.io/2019/09/01/File%E7%B1%BB%E5%A4%8D%E5%88%B6%E6%96%87%E4%BB%B6/"/>
+    <id>https://blackwang.github.io/2019/09/01/File%E7%B1%BB%E5%A4%8D%E5%88%B6%E6%96%87%E4%BB%B6/</id>
     <published>2019-09-01T15:18:18.000Z</published>
     <updated>2020-01-08T08:59:55.828Z</updated>
     
@@ -194,16 +209,16 @@
     
     
     
-      <category term="Java" scheme="https://yddfwang.github.io/tags/Java/"/>
+      <category term="Java" scheme="https://BlackWang.github.io/tags/Java/"/>
     
-      <category term="File" scheme="https://yddfwang.github.io/tags/File/"/>
+      <category term="File" scheme="https://BlackWang.github.io/tags/File/"/>
     
   </entry>
   
   <entry>
     <title>static关键字</title>
-    <link href="https://yddfwang.github.io/2019/08/30/static%E5%85%B3%E9%94%AE%E5%AD%97/"/>
-    <id>https://yddfwang.github.io/2019/08/30/static%E5%85%B3%E9%94%AE%E5%AD%97/</id>
+    <link href="https://blackwang.github.io/2019/08/30/static%E5%85%B3%E9%94%AE%E5%AD%97/"/>
+    <id>https://blackwang.github.io/2019/08/30/static%E5%85%B3%E9%94%AE%E5%AD%97/</id>
     <published>2019-08-30T06:59:02.000Z</published>
     <updated>2020-01-08T09:01:31.197Z</updated>
     
@@ -217,16 +232,16 @@
     
     
     
-      <category term="Java" scheme="https://yddfwang.github.io/tags/Java/"/>
+      <category term="Java" scheme="https://BlackWang.github.io/tags/Java/"/>
     
-      <category term="static" scheme="https://yddfwang.github.io/tags/static/"/>
+      <category term="static" scheme="https://BlackWang.github.io/tags/static/"/>
     
   </entry>
   
   <entry>
     <title>接口和多态</title>
-    <link href="https://yddfwang.github.io/2019/08/27/%E6%8E%A5%E5%8F%A3%E5%92%8C%E5%A4%9A%E6%80%81/"/>
-    <id>https://yddfwang.github.io/2019/08/27/%E6%8E%A5%E5%8F%A3%E5%92%8C%E5%A4%9A%E6%80%81/</id>
+    <link href="https://blackwang.github.io/2019/08/27/%E6%8E%A5%E5%8F%A3%E5%92%8C%E5%A4%9A%E6%80%81/"/>
+    <id>https://blackwang.github.io/2019/08/27/%E6%8E%A5%E5%8F%A3%E5%92%8C%E5%A4%9A%E6%80%81/</id>
     <published>2019-08-27T08:31:27.000Z</published>
     <updated>2019-08-30T08:36:22.000Z</updated>
     
@@ -240,14 +255,14 @@
     
     
     
-      <category term="Java" scheme="https://yddfwang.github.io/tags/Java/"/>
+      <category term="Java" scheme="https://BlackWang.github.io/tags/Java/"/>
     
   </entry>
   
   <entry>
     <title>面向对象</title>
-    <link href="https://yddfwang.github.io/2019/08/27/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/"/>
-    <id>https://yddfwang.github.io/2019/08/27/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/</id>
+    <link href="https://blackwang.github.io/2019/08/27/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/"/>
+    <id>https://blackwang.github.io/2019/08/27/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/</id>
     <published>2019-08-27T04:50:27.000Z</published>
     <updated>2020-01-08T03:09:50.217Z</updated>
     
@@ -261,7 +276,7 @@
     
     
     
-      <category term="Java" scheme="https://yddfwang.github.io/tags/Java/"/>
+      <category term="Java" scheme="https://BlackWang.github.io/tags/Java/"/>
     
   </entry>
   
